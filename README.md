@@ -1,4 +1,4 @@
-Where will a new AirBnb guest book their first travel experience?
+## Where will a new AirBnb guest book their first travel experience?
 
 This project was submitted as a response to the "Airbnb New User Bookings" competition on Kaggle.
 Here is the full description of the competition:
